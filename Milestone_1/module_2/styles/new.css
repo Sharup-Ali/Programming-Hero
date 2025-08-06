@@ -1,0 +1,20 @@
+#first{
+    background-color:darkgoldenrod;
+}
+#second{
+    background-color: brown;
+}
+#third{
+    background-color: darkgoldenrod;
+}
+.para{
+    font-size: 30px;
+}
+.main{
+    background-image: url(../Images/burger2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 30px;
+    padding: 20px;
+    border: 2px dotted black;
+}
